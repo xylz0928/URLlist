@@ -13,3 +13,6 @@ payload:
  - 'DOMAIN-SUFFIX,axchem.com'
  - 'DOMAIN-SUFFIX,axchem-china.com'
  - 'DOMAIN-SUFFIX,snf-group.com'
+ - 'DOMAIN-KEYWORD,zz-'
+ - 'DOMAIN-KEYWORD,cn-'
+ - 'DOMAIN-KEYWORD,-cn'
