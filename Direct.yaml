@@ -1,8 +1,0 @@
-payload:
-- DOMAIN-SUFFIX,bing.com,DIRECT
-- DOMAIN-SUFFIX,microsoft.com,DIRECT
-- DOMAIN-SUFFIX,bing.net,DIRECT
-- DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-- DOMAIN-SUFFIX,live.com,DIRECT
-- DOMAIN-SUFFIX,live.net,DIRECT
