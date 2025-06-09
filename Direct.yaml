@@ -1,8 +1,8 @@
-rules:
-- DOMAIN-SUFFIX,bing.com,DIRECT
-- DOMAIN-SUFFIX,microsoft.com,DIRECT
-- DOMAIN-SUFFIX,bing.net,DIRECT
-- DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
-- DOMAIN-SUFFIX,live.com,DIRECT
-- DOMAIN-SUFFIX,live.net,DIRECT
+payload:
+- DOMAIN-SUFFIX,bing.com
+- DOMAIN-SUFFIX,microsoft.com
+- DOMAIN-SUFFIX,bing.net
+- DOMAIN-SUFFIX,s-microsoft.com
+- DOMAIN-SUFFIX,microsoftonline.com
+- DOMAIN-SUFFIX,live.com
+- DOMAIN-SUFFIX,live.net
