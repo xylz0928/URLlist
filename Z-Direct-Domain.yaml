@@ -1,9 +1,48 @@
 payload:
-- '+.bing.net'
-- '+.bing.com'
-- '+.live.net'
-- '+.live.com'
 - '+.quickconnect.to'
-- '+.microsoft.com'
 - '+.synology.com'
 - '+.ntp.org'
+- '+.apple.com
+
+- '+.dyndns.com
+- '+.douyucdn.cn
+- '+.douyucdn2.cn
+
+#steam
+- '+.steamcontent.com
+- '+.dl.steam.clngaa.com
+- '+.dl.steam.ksyna.com
+- '+.st.dl.bscstorage.net
+- '+.st.dl.eccdnx.com
+- '+.st.dl.pinyuncloud.com
+- '+.cdn.mileweb.cs.steampowered.com.8686c.com
+- '+.cdn-ws.content.steamchina.com
+- '+.cdn-qc.content.steamchina.com
+- '+.cdn-ali.content.steamchina.com
+- '+.epicgames-download1-1251447533.file.myqcloud.com
+
+- '+.microsoft.com'
+- '+.live.net'
+- '+.live.com'
+- '+.onedrive.live.com'
+- '+.office.net'
+- '+.bing.net'
+- '+.bing.com'
+- '+.msocdn.com'
+- '+.office.com'
+- '+.azure.com'
+- '+.msftauth.net'
+- '+.w3.org'
+- '+.scriptcdn.net'
+- '+.amcdn.msftauth.net'
+- '+.onedrive.live.com'
+- '+.content.lifecycle.office.net'
+- '+.js.monitor.azure.com'
+- '+.modernb.akamai.odsp.cdn.office.net'
+- '+.res-1.cdn.office.net'
+- '+.s3.scriptcdn.net'
+- '+.shellprod.msocdn.com'
+- '+.storage.live.com'
+- '+.js.monitor.azure.com'
+
+- '+.speedtest.net'
