@@ -1,0 +1,4 @@
+rules:
+- GEOSITE,cn,DIRECT
+- DOMAIN-SUFFIX,bing.com,DIRECT
+- DOMAIN-SUFFIX,microsoft.com,DIRECT
