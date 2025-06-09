@@ -16,3 +16,6 @@ payload:
  - 'DOMAIN-KEYWORD,zz-'
  - 'DOMAIN-KEYWORD,cn-'
  - 'DOMAIN-KEYWORD,-cn'
+ - 'DOMAIN-KEYWORD,7ze.top'
+ - 'DOMAIN-SUFFIX,7ze.top'
+ - 'DOMAIN-KEYWORD,snf-'
