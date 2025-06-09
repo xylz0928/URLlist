@@ -3,3 +3,6 @@ payload:
  - 'DOMAIN-KEYWORD,xhscdn.com'
  - 'DOMAIN-SUFFIX,office.com'
  - 'DOMAIN-SUFFIX,office.net'
+ - 'DOMAIN-SUFFIX,azure.com'
+ - 'DOMAIN-SUFFIX,msedge.net'
+ - 'DOMAIN-SUFFIX,msauth.net'
