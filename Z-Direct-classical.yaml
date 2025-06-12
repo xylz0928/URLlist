@@ -22,6 +22,7 @@ payload:
  - 'DOMAIN-KEYWORD,itunes-apple'
  - 'DOMAIN-KEYWORD,akadns.net'
  - 'DOMAIN-SUFFIX,zerotier.com'
+ - 'DOMAIN-SUFFIX,qkeke.com'
 
 # Microsoft
 # Exchange Online
