@@ -24,6 +24,11 @@ payload:
  - 'DOMAIN-SUFFIX,zerotier.com'
  - 'DOMAIN-SUFFIX,qkeke.com'
 
+ - 'DOMAIN-SUFFIX,mozilla.com'
+ 
+ - 'DOMAIN-SUFFIX,xiaomi.com'
+ - 'DOMAIN-SUFFIX,mi.com'
+
 # Microsoft
 # Exchange Online
  - 'DOMAIN-SUFFIX,cloud.microsoft'
@@ -90,8 +95,7 @@ payload:
  - 'DOMAIN-SUFFIX,azure-apim.net'
  - 'DOMAIN-SUFFIX,static.microsoft'
  - 'DOMAIN-SUFFIX,usercontent.microsoft'
- 
- - 'DOMAIN-SUFFIX,xiaomi.com'
+
 
  - 'IP-CIDR,13.107.6.152/31'
  - 'IP-CIDR,13.107.18.10/31'
