@@ -24,6 +24,9 @@ payload:
  - 'DOMAIN-SUFFIX,zerotier.com'
  - 'DOMAIN-SUFFIX,qkeke.com'
 
+ - 'DOMAIN-SUFFIX,ip.sb'
+ - 'DOMAIN-SUFFIX,ipinfo.io'
+
  - 'DOMAIN-SUFFIX,mozilla.com'
  
  - 'DOMAIN-SUFFIX,xiaomi.com'
