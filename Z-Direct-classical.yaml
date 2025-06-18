@@ -99,7 +99,7 @@ payload:
  - 'DOMAIN-SUFFIX,azure-apim.net'
  - 'DOMAIN-SUFFIX,static.microsoft'
  - 'DOMAIN-SUFFIX,usercontent.microsoft'
-
+ - 'DOMAIN-SUFFIX,akamaized.net'
 
  - 'IP-CIDR,13.107.6.152/31'
  - 'IP-CIDR,13.107.18.10/31'
