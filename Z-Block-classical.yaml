@@ -1,5 +1,7 @@
 payload:
- - 'DOMAIN-SUFFIX,ic.adobe.io'
+ - 'DOMAIN-SUFFIX,adobe.io'
+ - 'DOMAIN-SUFFIX,adobestats.io'
+ - 'DOMAIN-SUFFIX,hstatic.io'
  - 'DOMAIN-SUFFIX,cc-api-data.adobe.io'
  - 'DOMAIN-SUFFIX,0mo5a70cqa.adobe.io'
  - 'DOMAIN-SUFFIX,1b9khekel6.adobe.io'
