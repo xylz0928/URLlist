@@ -75,7 +75,12 @@ proxy-groups:
   - name: "\U0001F9E0 所有-智选"
     type: smart
     include-all: true
-    policy-priority: "Hong:1.9"
+    policy-priority: ".*香港.*:1.6;.*(Hong).*:1.8"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -85,7 +90,12 @@ proxy-groups:
   - name: "\U0001F1ED\U0001F1F0 香港-智选"
     type: smart
     include-all: true
-#   policy-priority: "QiangGe:0.8"
+    policy-priority: ".*香港.*:1.6;.*(Hong).*:1.8"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -95,7 +105,12 @@ proxy-groups:
   - name: "\U0001F1E8\U0001F1F3 台湾-智选"
     type: smart
     include-all: true
-#   policy-priority: "QiangGe:0.8"
+    policy-priority: ".*台湾.*:1.2;.*(Taiwan).*:1.4"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -105,7 +120,12 @@ proxy-groups:
   - name: "\U0001F1EF\U0001F1F5 日本-智选"
     type: smart
     include-all: true
-#   policy-priority: "QiangGe:0.8"
+    policy-priority: ".*日本.*:0.8;.*(Japan).*:1.0"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -115,7 +135,12 @@ proxy-groups:
   - name: "\U0001F1F8\U0001F1EC 新加坡-智选"
     type: smart
     include-all: true
-#   policy-priority: "QiangGe:0.8"
+    policy-priority: ".*新加坡.*:0.6;.*(Singapore).*:0.7"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -135,7 +160,12 @@ proxy-groups:
   - name: "\U0001F1FA\U0001F1F8 美国-智选"
     type: smart
     include-all: true
-#   policy-priority: "QiangGe:0.8"
+    policy-priority: ".*美国.*:0.4;.*(US).*:0.5"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
@@ -145,7 +175,12 @@ proxy-groups:
   - name: "\U0001F1EC\U0001F1E7 英国-智选"
     type: smart
     include-all: true
-#   policy-priority: "QiangGe:0.8"
+    policy-priority: ".*英国.*:0.2;.*(UK).*:0.3"
+    health-check: 
+      enable: true
+      url: https://www.gstatic.com/generate_204
+      interval: 60
+      tolerance: 2
     uselightgbm: true
     collectdata: true
     interval: 300
