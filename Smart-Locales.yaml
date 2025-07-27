@@ -36,6 +36,7 @@ proxies:
 default: &default
   type: select
   proxies:
+    - "\U0001F530 节点选择"
     - "\U0001F1ED\U0001F1F0 香港-智选"
     - "\U0001F1E8\U0001F1F3 台湾-智选"
     - "\U0001F1EF\U0001F1F5 日本-智选"
@@ -50,7 +51,21 @@ default: &default
 
 proxy-groups:
 
-  - {name: "\U0001F530 节点选择", <<: *default}
+  - name: "\U0001F530 节点选择"
+    type: select
+    proxies:
+    - "\U0001F1ED\U0001F1F0 香港-智选"
+    - "\U0001F1E8\U0001F1F3 台湾-智选"
+    - "\U0001F1EF\U0001F1F5 日本-智选"
+    - "\U0001F1F8\U0001F1EC 新加坡-智选"
+    - "\U0001F1FA\U0001F1F8 美国-智选"
+    - "\U0001F1EC\U0001F1E7 英国-智选"
+    - "\U0001F30D 其他-智选"
+    - "\U0001F9E0 所有-智选"
+    - "\U0001F530 所有-手选"
+    - "\U0001F1E8\U0001F1F3 直连"
+    - "⛔️ 拒绝"
+
 
   - name: "\U0001F530 所有-手选"
     type: select
