@@ -36,6 +36,7 @@ payload:
  - 'DOMAIN-SUFFIX,xiaomi.com'
  - 'DOMAIN-SUFFIX,mi.com'
  - 'DOMAIN-SUFFIX,bemfa.com'
+ - 'DOMAIN-SUFFIX,360buyimg.com'
 
 # Microsoft
 # Exchange Online
