@@ -1,3 +1,4 @@
 payload:
  - 'DOMAIN-SUFFIX,proxmox.com'
  - 'DOMAIN-SUFFIX,miaosscib.com'
+ - 'DOMAIN-SUFFIX,t.me'
