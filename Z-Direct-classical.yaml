@@ -140,3 +140,4 @@ payload:
  - 'IP-CIDR,198.41.200.193/32'
  - 'IP-CIDR,198.41.200.63/32'
  - 'DOMAIN-SUFFIX,cloudflare-ech.com'
+ - 'DOMAIN-SUFFIX,cloudflare.com'
