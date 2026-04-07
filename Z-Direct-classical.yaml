@@ -108,6 +108,7 @@ payload:
  - 'DOMAIN-SUFFIX,akamaized.net'
  - 'DOMAIN-SUFFIX,microsoftonline.com'
  - 'DOMAIN-SUFFIX,msftconnecttest.com'
+ - 'DOMAIN-SUFFIX,test-ipv6.com'
 
  - 'IP-CIDR,13.107.6.152/31'
  - 'IP-CIDR,13.107.18.10/31'
