@@ -136,13 +136,14 @@ payload:
  - 'IP-CIDR,2603:1047::/48'
  - 'IP-CIDR,2603:1057::/48'
  - 'IP-CIDR,2a02:6ea0:d368::/48'
- - 'IP-CIDR,2605:9880:400:c3:254:f2bc:a1f7:19'
  - 'IP-CIDR,103.195.103.0/24'
  - 'IP-CIDR,10.0.0.0/8'
  - 'IP-CIDR,172.16.0.0/12'
  - 'IP-CIDR,192.168.0.0/16'
  - 'IP-CIDR,103.195.103.66/32'
 
+# ZeroTier
+ - 'IP-CIDR,2605:9880:400:c3:254:f2bc:a1f7:19/32'
  - 'IP-CIDR,185.152.67.145/32'
 
 # CloudFlare Zero Trust
