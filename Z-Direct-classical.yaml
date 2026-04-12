@@ -110,6 +110,9 @@ payload:
  - 'DOMAIN-SUFFIX,msftconnecttest.com'
  - 'DOMAIN-SUFFIX,test-ipv6.com'
 
+
+ - 'DOMAIN-SUFFIX,services.mozilla.com'
+
  - 'IP-CIDR,13.107.6.152/31'
  - 'IP-CIDR,13.107.18.10/31'
  - 'IP-CIDR,13.107.128.0/22'
@@ -132,10 +135,13 @@ payload:
  - 'IP-CIDR,2603:1037::/48'
  - 'IP-CIDR,2603:1047::/48'
  - 'IP-CIDR,2603:1057::/48'
+ - 'IP-CIDR,2a02:6ea0:d368::/48'
+ - 'IP-CIDR,2605:9880:400:c3:254:f2bc:a1f7:19'
  - 'IP-CIDR,103.195.103.0/24'
  - 'IP-CIDR,10.0.0.0/8'
  - 'IP-CIDR,172.16.0.0/12'
  - 'IP-CIDR,192.168.0.0/16'
+ - 'IP-CIDR,103.195.103.66/32'
 
 # CloudFlare Zero Trust
  - 'IP-CIDR,198.41.0.0/16'
@@ -145,3 +151,4 @@ payload:
  - 'IP-CIDR,198.41.200.63/32'
  - 'DOMAIN-SUFFIX,cloudflare-ech.com'
  - 'DOMAIN-SUFFIX,cloudflare.com'
+ - 'DOMAIN-SUFFIX,cloudflareclient.com'
