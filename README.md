@@ -1,39 +1,36 @@
+
+
 # url_list
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+### 介绍
+这是一个用于管理URL列表的项目，可以用于分类、存储和快速访问常用的URL链接。
 
-#### 软件架构
-软件架构说明
+### 软件架构
+项目主要由配置文件和核心代码组成。配置文件包含不同场景下的URL列表，核心代码提供对这些列表的管理和访问接口。
 
+- `README.en.md` - 英文版项目说明文档
+- `README.md` - 中文版项目说明文档
+- `Smart-Locales.yaml` - 智能本地化配置文件
+- `Z-Block-classical.yaml` - 经典模式下的URL屏蔽列表配置
+- `Z-Direct-Domain.yaml` - 直连域名配置文件
+- `Z-Direct-classical.yaml` - 经典模式下的直连URL配置
+- `Z-Proxy-classical.yaml` - 经典模式下的代理URL配置
 
-#### 安装教程
+### 安装教程
+1. 克隆本仓库到本地
+2. 根据需要选择配置文件进行查看或导入
+3. 使用支持YAML格式的编辑器打开并编辑配置文件
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 使用说明
+- 可以通过修改配置文件来添加、删除或更新URL条目
+- 根据不同的配置文件类型，可以设置URL的访问策略（例如直连、代理、屏蔽等）
 
-#### 使用说明
+### 参与贡献
+欢迎贡献更多URL配置和优化建议，可以通过提交Pull Request或Issue来参与项目改进。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 特技
+- 支持多场景配置，方便灵活管理URL访问策略
+- 可扩展性强，可根据实际需求添加更多配置文件
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### License
+本项目采用MIT License，请在使用时遵循相关协议。
