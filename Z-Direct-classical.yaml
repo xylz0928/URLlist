@@ -156,3 +156,54 @@ payload:
  - 'DOMAIN-SUFFIX,cloudflare-ech.com'
  - 'DOMAIN-SUFFIX,cloudflare.com'
  - 'DOMAIN-SUFFIX,cloudflareclient.com'
+
+
+ - 'DOMAIN-SUFFIX,quickconnect.to'
+ - 'DOMAIN-SUFFIX,synology.com'
+ - 'DOMAIN-SUFFIX,ntp.org'
+ - 'DOMAIN-SUFFIX,apple.com
+
+ - 'DOMAIN-SUFFIX,dyndns.com
+ - 'DOMAIN-SUFFIX,douyucdn.cn
+ - 'DOMAIN-SUFFIX,douyucdn2.cn
+
+#steam
+ - 'DOMAIN-SUFFIX,steamcontent.com
+ - 'DOMAIN-SUFFIX,dl.steam.clngaa.com
+ - 'DOMAIN-SUFFIX,dl.steam.ksyna.com
+ - 'DOMAIN-SUFFIX,st.dl.bscstorage.net
+ - 'DOMAIN-SUFFIX,st.dl.eccdnx.com
+ - 'DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+ - 'DOMAIN-SUFFIX,cdn.mileweb.cs.steampowered.com.8686c.com
+ - 'DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+ - 'DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+ - 'DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+ - 'DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
+
+ - 'DOMAIN-SUFFIX,microsoft.com'
+ - 'DOMAIN-SUFFIX,windows.com'
+ - 'DOMAIN-SUFFIX,windows.net'
+ - 'DOMAIN-SUFFIX,live.net'
+ - 'DOMAIN-SUFFIX,live.com'
+ - 'DOMAIN-SUFFIX,onedrive.live.com'
+ - 'DOMAIN-SUFFIX,office.net'
+ - 'DOMAIN-SUFFIX,bing.net'
+ - 'DOMAIN-SUFFIX,bing.com'
+ - 'DOMAIN-SUFFIX,msocdn.com'
+ - 'DOMAIN-SUFFIX,office.com'
+ - 'DOMAIN-SUFFIX,azure.com'
+ - 'DOMAIN-SUFFIX,msftauth.net'
+ - 'DOMAIN-SUFFIX,w3.org'
+ - 'DOMAIN-SUFFIX,scriptcdn.net'
+ - 'DOMAIN-SUFFIX,amcdn.msftauth.net'
+ - 'DOMAIN-SUFFIX,onedrive.live.com'
+ - 'DOMAIN-SUFFIX,content.lifecycle.office.net'
+ - 'DOMAIN-SUFFIX,js.monitor.azure.com'
+ - 'DOMAIN-SUFFIX,modernb.akamai.odsp.cdn.office.net'
+ - 'DOMAIN-SUFFIX,res-1.cdn.office.net'
+ - 'DOMAIN-SUFFIX,s3.scriptcdn.net'
+ - 'DOMAIN-SUFFIX,shellprod.msocdn.com'
+ - 'DOMAIN-SUFFIX,storage.live.com'
+ - 'DOMAIN-SUFFIX,js.monitor.azure.com'
+
+ - 'DOMAIN-SUFFIX,speedtest.net'
