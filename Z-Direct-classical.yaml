@@ -203,3 +203,7 @@ payload:
  - 'DOMAIN-SUFFIX,fafda.to'
  - 'DOMAIN-SUFFIX,buzzheavier.com'
  - 'DOMAIN-SUFFIX,massgrave.dev'
+
+ - 'DST-PORT,11010'
+ - 'DST-PORT,11011'
+ - 'DST-PORT,11012'
