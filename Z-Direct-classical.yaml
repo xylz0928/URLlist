@@ -204,6 +204,8 @@ payload:
  - 'DOMAIN-SUFFIX,fafda.to'
  - 'DOMAIN-SUFFIX,buzzheavier.com'
  - 'DOMAIN-SUFFIX,massgrave.dev'
+ - 'DOMAIN-SUFFIX,edge2.bc51634de188fa14ee0635ad93fe3e80.r2.cloudflarestorage.com'
+ - 'DOMAIN-SUFFIX,cloudflarestorage.com'
 
  - 'PROCESS-NAME,tailscaled'
 
