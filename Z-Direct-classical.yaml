@@ -207,6 +207,9 @@ payload:
  - 'DOMAIN-SUFFIX,edge2.bc51634de188fa14ee0635ad93fe3e80.r2.cloudflarestorage.com'
  - 'DOMAIN-SUFFIX,cloudflarestorage.com'
 
+ - 'DOMAIN-SUFFIX,teams.cloud.microsoft'
+ - 'DOMAIN-SUFFIX,cloud.microsoft'
+
  - 'PROCESS-NAME,tailscaled'
 
  - 'DST-PORT,11010'
